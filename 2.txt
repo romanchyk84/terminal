@@ -1,1 +1,2 @@
 имя, возраст, номер телефона
+name, age, phone number
