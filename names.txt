@@ -4,3 +4,4 @@
 4) Roman
 5) Stepan
 6) Igor
+7) New string added
